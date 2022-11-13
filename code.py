@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# * 队伍:for the dream
-
 import pandas as pd
 import numpy as np
 import lightgbm as lgb
